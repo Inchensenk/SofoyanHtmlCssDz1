@@ -5,11 +5,16 @@ body {
     margin-bottom: 5%;
 }
 
-div {
+.Task1 {
     background-color: rgba(144, 144, 201, 0.192);
 }
 
 .Task1 h1 {
     font-family: 'Ubuntu';
     color: blueviolet;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #718597;
 }
